@@ -7,7 +7,8 @@
 body {
     position: relative;
     height: 100vh;
-    background-color: beige;
+    background-color: burlywood;
+    color: white;
 }
 
 .container {
@@ -19,15 +20,12 @@ body {
 }
 
 h1 {
-    color: red;
-}
-
-h2 {
     color: brown;
 }
 
-.f-s {
-    font-size: 20px;
+.fs-c {
+    color: chocolate;
+    font-size: 25px;
     font-weight: bold;
 }
 
